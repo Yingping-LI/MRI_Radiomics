@@ -1,4 +1,4 @@
-# MRI_Radiomics
+
 
 ## Paper:  Impact of Preprocessing and Harmonization Methods on the Removal of Scanner Effects in Brain MRI Radiomic Features
 
